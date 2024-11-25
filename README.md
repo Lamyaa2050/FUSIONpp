@@ -1,7 +1,7 @@
 <div align="center">
   
 # FUSION++: A Method to Detect Generative AI Manipulated Images
-#### BMVC Workshop on Media Authenticity in the Age of Artificial Intelligence
+#### BMVC 2024 Workshop on Media Authenticity in the Age of Artificial Intelligence
 </div>
 
 
