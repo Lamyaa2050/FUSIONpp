@@ -21,7 +21,7 @@ AI tools.
 
 ## Installation
 
-1. Install dependencies:
+1. Install requirements:
    ```bash
    pip install -r requirements.txt
    ```
@@ -73,3 +73,6 @@ Key libraries include:
 :green_circle: The NCL_IMD.v2 dataset is available for download [here](https://dbhowmik.github.io/MediaTrust/dataset/)
 
 ---
+# 2. FUSION++ Detection and Localization Method:
+
+ <img style="width: 100%" src="Figure/FUSION++.png">
