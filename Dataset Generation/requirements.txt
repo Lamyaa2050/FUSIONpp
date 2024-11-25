@@ -1,0 +1,38 @@
+openai==0.28
+'git+https://github.com/facebookresearch/segment-anything.git'
+-q jupyter_bbox_widget roboflow dataclasses-json supervision
+ultralytics
+simple-lama-inpainting==0.1.0
+torch torchvision transformers requests opencv-python matplotlib numpy timm mmengine ipywidgets
+diffusers safetensors transformers
+git+https://github.com/huggingface/accelerate
+requests
+os
+shutil
+sys
+csv
+collections
+random
+torch
+transformers
+torchvision
+opencv-python-headless  # cv2
+supervision
+matplotlib
+ultralytics
+pandas
+diffusers
+Pillow
+numpy
+openai
+requests
+simple-lama-inpainting
+google-colab
+ipywidgets
+ipython
+accelerate
+tabulate
+joblib
+tqdm
+json
+termcolor
